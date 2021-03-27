@@ -12,18 +12,26 @@ html {
 body {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
-    font-size: large;
+    font-size: 16px;
 }
 
 h1 {
     font-family: 'Bitter', serif;
     font-weight: 600;
+    font-size: 36px;
   }
 
 h2 {
     font-family: 'Bitter', serif;
     font-weight: 400;
+    font-size: 28px;
 }
+
+ul {
+    margin: 10px 10px;
+}
+
+
 
 .caption {
     font-family: 'Roboto Condensed', sans-serif;
@@ -39,6 +47,7 @@ h2 {
 
 .pullquote {
     font-family: 'Special Elite', cursive;
+    font-size: 24px;
 }
 
 .container {
@@ -62,11 +71,13 @@ h2 {
     text-align: center;
     margin: 7px;
     padding: 10px;
+    font-size: larger;
 }
 
 .colour-name {
     font-weight: 700;
     color: white;
+    margin-top: 5px;
 }
 
 .colour-value {
@@ -128,3 +139,4 @@ h2 {
     font-size: larger;
     margin-bottom: 5px;
 }
+
