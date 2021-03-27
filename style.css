@@ -49,6 +49,13 @@ ul {
 .pullquote {
     font-family: 'Special Elite', cursive;
     font-size: 24px;
+    color: white;
+    padding: 6px 4px 4px 4px;
+    
+}
+
+
+
 }
 
 .container {
@@ -87,18 +94,23 @@ ul {
 
 .claret {
     background-color: #8B1E3F;
+    padding: 6px 4px 4px 4px;
 }
 
 .purple {
     background-color: #3C153B;
+    padding: 6px 4px 4px 4px;
 }
 
 .etonblue {
     background-color: #89BD9E;
+    padding: 6px 4px 4px 4px;
 }
 
 .goldcrayola {
     background-color: #F0C987;
+    color: black;
+    padding: 6px 4px 4px 4px;
 }
 
 .bitter {
