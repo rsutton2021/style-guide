@@ -41,6 +41,7 @@ ul {
 
 .credit {
     font-style: normal;
+    text-transform: lowercase;
     font-variant: small-caps;
 
 }
