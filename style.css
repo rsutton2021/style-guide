@@ -1,3 +1,5 @@
+/*border: 1px solid black; */
+
 * {
     margin: 0;
     padding: 0;
@@ -40,8 +42,8 @@ h2 {
 }
 
 .container {
-    border: 2px solid gray;
-    margin: 10px auto;
+    border: 1px solid gray;
+    margin: 20px auto;
     padding: 10px;
     
 }
@@ -49,6 +51,7 @@ h2 {
 .flex-container {
     display: flex;
     flex-wrap: nowrap;
+    padding-top: 10px;
     
 }
 
@@ -57,7 +60,7 @@ h2 {
     width: 100%;
     height: 80px;
     text-align: center;
-    margin: 8px 8px;
+    margin: 7px;
     padding: 10px;
 }
 
@@ -84,4 +87,44 @@ h2 {
 
 .goldcrayola {
     background-color: #F0C987;
+}
+
+.bitter {
+    font-family: Bitter;
+}
+
+.roboto {
+    font-family: Roboto;
+}
+
+.roboto-condensed {
+    font-family: "Roboto Condensed";
+}
+
+.special-elite {
+    font-family: 'Special Elite', cursive;
+}
+
+.regular {
+    font-weight: normal;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.font-box {
+    margin: 10px 10px;
+    width: 100%;
+    
+    
+}
+
+.font-label {
+    font-size: larger;
+    margin-bottom: 5px;
 }
